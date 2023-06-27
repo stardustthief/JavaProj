@@ -44,7 +44,7 @@ public class HtmlCodeGenerator {
             }
         } while (!isValidEmail(email));
 
-        String repositoryUrl = "https://example.com"; // Repository URL
+        String repositoryUrl = "https://github.com/stardustthief/JavaProj"; // Repository URL
 
         HtmlCodeGenerator codeGenerator = new HtmlCodeGenerator();
 
